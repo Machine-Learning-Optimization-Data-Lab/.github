@@ -1,4 +1,4 @@
-# .github
+# Machine Learning, Optimization and Data (MOD) Lab 
 
 <p align="center">
 <img src="https://github.com/Machine-Learning-Optimization-Data-Lab/Machine-Learning-Optimization-Data-Lab/blob/main/mod_logo.png" width="360" class="center" alt="logo"/>
